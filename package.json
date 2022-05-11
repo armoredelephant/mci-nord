@@ -6,6 +6,15 @@
     "engines": {
         "vscode": "^1.66.0"
     },
+    "publisher": "armoredElephant",
+    "author": {
+        "name": "Keith Alleman",
+        "email": "Keith.alleman@icloud.com"
+    },
+    "repository": {
+        "url": "https://github.com/armoredelephant/mci-nord.git",
+        "type": "git"
+    },
     "categories": [
         "Themes"
     ],
