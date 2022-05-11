@@ -1,0 +1,21 @@
+{
+    "name": "mci-nord",
+    "displayName": "mci nord",
+    "description": "custom nord theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "mci nord",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mci nord-color-theme.json"
+            }
+        ]
+    }
+}
