@@ -43,7 +43,7 @@
 		// "editorGroup.background": "#363d46", 31373f
 		"editorGroup.border": "#31373f",
 		"editorGroup.dropBackground": "#3b425299",
-		"editorGroup.emptyBackground": "#bf616a",
+		"editorGroup.emptyBackground": "#282b34",
 		"editorGroupHeader.noTabsBackground": "#363d46",
 		// "editorGroupHeader.border": "#3b425299",
 		// "editorGroupHeader.363d46": "#31373f", // change this
